@@ -2,7 +2,7 @@ let token;
 
 const clientID = "67d24e845d5e4399a8be009539002de8";
 // const redirectURI = "http://localhost:3000/";
-const redirectURI = "http://mac.surge.sh/";
+const redirectURI = "http://mac.surge.sh";
 
 
 const Spotify = {
